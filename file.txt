@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 bonjour az
+=======
+bonjour
+Modification hafid4D try to push 3
+>>>>>>> 66d6720bc8d826178bc36840d9e97b3bbe18aced
